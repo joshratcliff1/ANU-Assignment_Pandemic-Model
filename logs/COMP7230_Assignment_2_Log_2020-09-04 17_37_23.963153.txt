@@ -1,0 +1,190 @@
+Turn| Alive |infected|  Dead |Survivors| Cured |Vaccines|        City        |Event
+   1| 439444|    5093|     75|     1425|      0|       0|      Canberra      |The city has its first infected case
+   1| 154466|    5080|     75|     1425|      0|       0|       Cairns       |The city has its first infected case
+   2|5029880|     129|      1|       36|      0|    1000|       Sydney       |The city has its first infected case
+   2|5029880|     129|      1|       36|      0|    1000|       Sydney       |This city still has vaccines remaining
+   2|4725316|       0|      0|        0|      0|    1000|     Melbourne      |This city still has vaccines remaining
+   2|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+   2| 295781|     129|      1|       36|      0|       0|     Wollongong     |The city has its first infected case
+   2| 179087|     256|      3|       72|      0|       0|     Townsville     |The city has its first infected case
+   2|  90690|     130|      1|       37|      0|       0|   Albury Wodonga   |The city has its first infected case
+   2| 146139|     256|      3|       72|      0|       0|       Darwin       |The city has its first infected case
+   2|  56072|     129|      1|       36|      0|       0|    Wagga Wagga     |The city has its first infected case
+   3|5029979|     113|      2|       68|    129|     871|       Sydney       |This city still has vaccines remaining
+   3|4725318|       0|      0|        2|      0|    1000|     Melbourne      |The city has its first infected case
+   3|4725318|       0|      0|        2|      0|    1000|     Melbourne      |The city has become infection free
+   3|4725318|       0|      0|        2|      0|    1000|     Melbourne      |This city still has vaccines remaining
+   3|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+   3| 436174|       0|      0|        3|      0|       0|     Newcastle      |The city has its first infected case
+   3| 436174|       0|      0|        3|      0|       0|     Newcastle      |The city has become infection free
+   3|  39758|       0|      0|        3|      0|       0|  Bathurst Orange   |The city has its first infected case
+   3|  39758|       0|      0|        3|      0|       0|  Bathurst Orange   |The city has become infection free
+   3|  80763|       5|      0|        5|      0|       0|       Mackay       |The city has its first infected case
+   3|  51003|       0|      0|        5|      0|       0|      Mildura       |The city has its first infected case
+   3|  51003|       0|      0|        5|      0|       0|      Mildura       |The city has become infection free
+   3|  50695|       0|      0|        2|      0|       0|Shepparton Mooroopna|The city has its first infected case
+   3|  50695|       0|      0|        2|      0|       0|Shepparton Mooroopna|The city has become infection free
+   3|  37128|       0|      0|        3|      0|       0|       Dubbo        |The city has its first infected case
+   3|  37128|       0|      0|        3|      0|       0|       Dubbo        |The city has become infection free
+   3|  27988|      18|      0|        5|      0|       0|   Alice Springs    |The city has its first infected case
+   3|  14784|       5|      0|        5|      0|       0|       Broome       |The city has its first infected case
+   4|5030060|      93|      3|       94|    242|     758|       Sydney       |This city still has vaccines remaining
+   4|4725322|       0|      0|        6|      0|    1000|     Melbourne      |The city has become infection free
+   4|4725322|       0|      0|        6|      0|    1000|     Melbourne      |This city still has vaccines remaining
+   4|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+   4| 436176|       0|      0|        5|      0|       0|     Newcastle      |The city has become infection free
+   4|  39760|       0|      0|        5|      0|       0|  Bathurst Orange   |The city has become infection free
+   4|  50699|       0|      0|        6|      0|       0|Shepparton Mooroopna|The city has become infection free
+   4|  37133|       0|      0|        8|      0|       0|       Dubbo        |The city has become infection free
+   5|5030127|      78|      4|      115|    335|     665|       Sydney       |This city still has vaccines remaining
+   5|4725328|       1|      0|       11|      0|    1000|     Melbourne      |This city still has vaccines remaining
+   5|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+   5| 436178|       0|      0|        7|      0|       0|     Newcastle      |The city has become infection free
+   5|  39762|       0|      0|        7|      0|       0|  Bathurst Orange   |The city has become infection free
+   5|  78796|       0|      0|        1|      0|       0|    Rockhampton     |The city has its first infected case
+   5|  78796|       0|      0|        1|      0|       0|    Rockhampton     |The city has become infection free
+   5|  38290|       0|      0|        1|      0|       0|     Geraldton      |The city has its first infected case
+   5|  38290|       0|      0|        1|      0|       0|     Geraldton      |The city has become infection free
+   6|5030174|      54|      4|      130|    413|     587|       Sydney       |This city still has vaccines remaining
+   6|4725336|       5|      0|       16|      1|     999|     Melbourne      |This city still has vaccines remaining
+   6|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+   6| 436179|       0|      0|        8|      0|       0|     Newcastle      |The city has become infection free
+   6| 114025|       0|      0|        1|      0|       0|     Toowoomba      |The city has its first infected case
+   6| 114025|       0|      0|        1|      0|       0|     Toowoomba      |The city has become infection free
+   6|  39763|       0|      0|        8|      0|       0|  Bathurst Orange   |The city has become infection free
+   6|  78798|       0|      0|        3|      0|       0|    Rockhampton     |The city has become infection free
+   6|  30683|       0|      0|        1|      0|       0| Kalgoorlie Boulder |The city has its first infected case
+   6|  30683|       0|      0|        1|      0|       0| Kalgoorlie Boulder |The city has become infection free
+   6|  38292|       0|      0|        3|      0|       0|     Geraldton      |The city has become infection free
+   6|  14216|       0|      0|        1|      0|       0|    Port Augusta    |The city has its first infected case
+   6|  14216|       0|      0|        1|      0|       0|    Port Augusta    |The city has become infection free
+   7|5030204|      33|      4|      140|    467|     533|       Sydney       |This city still has vaccines remaining
+   7|4725345|       6|      0|       21|      6|     994|     Melbourne      |This city still has vaccines remaining
+   7|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+   7| 436180|       0|      0|        9|      0|       0|     Newcastle      |The city has become infection free
+   7| 114028|       0|      0|        4|      0|       0|     Toowoomba      |The city has become infection free
+   7|  39764|       0|      0|        9|      0|       0|  Bathurst Orange   |The city has become infection free
+   7|  78802|       0|      0|        7|      0|       0|    Rockhampton     |The city has become infection free
+   7|  30686|       0|      0|        4|      0|       0| Kalgoorlie Boulder |The city has become infection free
+   7|  38296|       0|      0|        7|      0|       0|     Geraldton      |The city has become infection free
+   7|  14219|       0|      0|        4|      0|       0|    Port Augusta    |The city has become infection free
+   8|5030236|      37|      4|      150|    500|     500|       Sydney       |This city still has vaccines remaining
+   8|4725354|       6|      0|       26|     12|     988|     Melbourne      |This city still has vaccines remaining
+   8|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+   8|1324280|       0|      0|        1|      0|       0|      Adelaide      |The city has its first infected case
+   8|1324280|       0|      0|        1|      0|       0|      Adelaide      |The city has become infection free
+   8| 114032|       0|      0|        8|      0|       0|     Toowoomba      |The city has become infection free
+   8|  30690|       0|      0|        8|      0|       0| Kalgoorlie Boulder |The city has become infection free
+   8|  14224|       0|      0|        9|      0|       0|    Port Augusta    |The city has become infection free
+   9|5030270|      39|      4|      161|    537|     463|       Sydney       |This city still has vaccines remaining
+   9|4725364|       8|      0|       31|     18|     982|     Melbourne      |This city still has vaccines remaining
+   9|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+   9|1324281|       0|      0|        2|      0|       0|      Adelaide      |The city has become infection free
+   9|  95588|       0|      0|        1|      0|       0|      Bendigo       |The city has its first infected case
+   9|  95588|       0|      0|        1|      0|       0|      Bendigo       |The city has become infection free
+  10|5030306|      40|      4|      173|    576|     424|       Sydney       |This city still has vaccines remaining
+  10|4725374|       8|      0|       36|     26|     974|     Melbourne      |This city still has vaccines remaining
+  10|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+  10|1324283|       0|      0|        4|      0|       0|      Adelaide      |The city has become infection free
+  10| 436181|       0|      0|       10|      0|       0|     Newcastle      |The city has become infection free
+  10|  95589|       0|      0|        2|      0|       0|      Bendigo       |The city has become infection free
+  10|  39765|       0|      0|       10|      0|       0|  Bathurst Orange   |The city has become infection free
+  10|  41979|       0|      0|        1|      0|       0|      Tamworth      |The city has its first infected case
+  10|  41979|       0|      0|        1|      0|       0|      Tamworth      |The city has become infection free
+  11|5030345|      44|      4|      186|    616|     384|       Sydney       |This city still has vaccines remaining
+  11|4725385|      10|      0|       41|     34|     966|     Melbourne      |This city still has vaccines remaining
+  11|2022044|       0|      0|        0|      0|    1000|       Perth        |This city still has vaccines remaining
+  11|1324285|       0|      0|        6|      0|       0|      Adelaide      |The city has become infection free
+  11| 436182|       0|      0|       11|      0|       0|     Newcastle      |The city has become infection free
+  11|  95591|       0|      0|        4|      0|       0|      Bendigo       |The city has become infection free
+  11|  39766|       0|      0|       11|      0|       0|  Bathurst Orange   |The city has become infection free
+  11|  41980|       0|      0|        2|      0|       0|      Tamworth      |The city has become infection free
+  12|5030382|      42|      4|      198|    660|     340|       Sydney       |This city still has vaccines remaining
+  12|4725397|      11|      0|       46|     44|     956|     Melbourne      |This city still has vaccines remaining
+  12|2022045|       0|      0|        1|      0|    1000|       Perth        |The city has its first infected case
+  12|2022045|       0|      0|        1|      0|    1000|       Perth        |The city has become infection free
+  12|2022045|       0|      0|        1|      0|    1000|       Perth        |This city still has vaccines remaining
+  12|1324288|       0|      0|        9|      0|       0|      Adelaide      |The city has become infection free
+  12| 436184|       0|      0|       13|      0|       0|     Newcastle      |The city has become infection free
+  12|  95594|       0|      0|        7|      0|       0|      Bendigo       |The city has become infection free
+  12|  39768|       0|      0|       13|      0|       0|  Bathurst Orange   |The city has become infection free
+  12|  45087|       0|      0|        1|      0|       0|     Gladstone      |The city has its first infected case
+  12|  45087|       0|      0|        1|      0|       0|     Gladstone      |The city has become infection free
+  12|  41982|       0|      0|        4|      0|       0|      Tamworth      |The city has become infection free
+  13|5030423|      47|      4|      211|    702|     298|       Sydney       |This city still has vaccines remaining
+  13|4725410|      13|      0|       51|     55|     945|     Melbourne      |This city still has vaccines remaining
+  13|2022046|       0|      0|        2|      0|    1000|       Perth        |The city has become infection free
+  13|2022046|       0|      0|        2|      0|    1000|       Perth        |This city still has vaccines remaining
+  13|1324292|       0|      0|       13|      0|       0|      Adelaide      |The city has become infection free
+  13| 436187|       0|      0|       16|      0|       0|     Newcastle      |The city has become infection free
+  13|  95597|       0|      0|       10|      0|       0|      Bendigo       |The city has become infection free
+  13|  39771|       0|      0|       16|      0|       0|  Bathurst Orange   |The city has become infection free
+  13|  45089|       0|      0|        3|      0|       0|     Gladstone      |The city has become infection free
+  13|  41984|       0|      0|        6|      0|       0|      Tamworth      |The city has become infection free
+  14|5030466|      49|      4|      225|    749|     251|       Sydney       |This city still has vaccines remaining
+  14|4725424|      15|      0|       56|     68|     932|     Melbourne      |This city still has vaccines remaining
+  14|2360242|       0|      0|        1|      0|       0|      Brisbane      |The city has its first infected case
+  14|2360242|       0|      0|        1|      0|       0|      Brisbane      |The city has become infection free
+  14|2022048|       0|      0|        4|      0|    1000|       Perth        |The city has become infection free
+  14|2022048|       0|      0|        4|      0|    1000|       Perth        |This city still has vaccines remaining
+  14|1324297|       0|      0|       18|      0|       0|      Adelaide      |The city has become infection free
+  14| 436191|       0|      0|       20|      0|       0|     Newcastle      |The city has become infection free
+  14| 317405|       0|      0|        1|      0|       0|   Sunshine Coast   |The city has its first infected case
+  14| 317405|       0|      0|        1|      0|       0|   Sunshine Coast   |The city has become infection free
+  14|  95601|       0|      0|       14|      0|       0|      Bendigo       |The city has become infection free
+  14|  39775|       0|      0|       20|      0|       0|  Bathurst Orange   |The city has become infection free
+  14|  45091|       0|      0|        5|      0|       0|     Gladstone      |The city has become infection free
+  14|  41987|       0|      0|        9|      0|       0|      Tamworth      |The city has become infection free
+  15|5030513|      54|      4|      240|    798|     202|       Sydney       |This city still has vaccines remaining
+  15|4725439|      16|      0|       61|     83|     917|     Melbourne      |This city still has vaccines remaining
+  15|2360243|       0|      0|        2|      0|       0|      Brisbane      |The city has become infection free
+  15|2022052|       0|      0|        8|      0|    1000|       Perth        |The city has become infection free
+  15|2022052|       0|      0|        8|      0|    1000|       Perth        |This city still has vaccines remaining
+  15| 436195|       0|      0|       24|      0|       0|     Newcastle      |The city has become infection free
+  15| 317406|       0|      0|        2|      0|       0|   Sunshine Coast   |The city has become infection free
+  15|  95606|       0|      0|       19|      0|       0|      Bendigo       |The city has become infection free
+  15|  39779|       0|      0|       24|      0|       0|  Bathurst Orange   |The city has become infection free
+  15|  45094|       0|      0|        8|      0|       0|     Gladstone      |The city has become infection free
+  15|  41990|       0|      0|       12|      0|       0|      Tamworth      |The city has become infection free
+  15|  33916|       0|      0|        1|      0|       0|       Albany       |The city has its first infected case
+  15|  33916|       0|      0|        1|      0|       0|       Albany       |The city has become infection free
+  16|5030563|      57|      4|      256|    852|     148|       Sydney       |This city still has vaccines remaining
+  16|4725456|      20|      0|       66|     99|     901|     Melbourne      |This city still has vaccines remaining
+  16|2360245|       0|      0|        4|      0|       0|      Brisbane      |The city has become infection free
+  16|2022057|       0|      0|       13|      0|    1000|       Perth        |The city has become infection free
+  16|2022057|       0|      0|       13|      0|    1000|       Perth        |This city still has vaccines remaining
+  16| 436200|       0|      0|       29|      0|       0|     Newcastle      |The city has become infection free
+  16| 317408|       0|      0|        4|      0|       0|   Sunshine Coast   |The city has become infection free
+  16|  39784|       0|      0|       29|      0|       0|  Bathurst Orange   |The city has become infection free
+  16|  45098|       0|      0|       12|      0|       0|     Gladstone      |The city has become infection free
+  16|  41994|       0|      0|       16|      0|       0|      Tamworth      |The city has become infection free
+  16|  33917|       0|      0|        2|      0|       0|       Albany       |The city has become infection free
+  17|5030617|      61|      4|      274|    909|      91|       Sydney       |This city still has vaccines remaining
+  17|4725474|      20|      0|       72|    119|     881|     Melbourne      |This city still has vaccines remaining
+  17|2360247|       0|      0|        6|      0|       0|      Brisbane      |The city has become infection free
+  17|2022063|       1|      0|       18|      0|    1000|       Perth        |This city still has vaccines remaining
+  17| 317410|       0|      0|        6|      0|       0|   Sunshine Coast   |The city has become infection free
+  17|  45103|       0|      0|       17|      0|       0|     Gladstone      |The city has become infection free
+  17|  41999|       0|      0|       21|      0|       0|      Tamworth      |The city has become infection free
+  17|  33919|       0|      0|        4|      0|       0|       Albany       |The city has become infection free
+  18|5030675|      66|      4|      293|    970|      30|       Sydney       |This city still has vaccines remaining
+  18|4725493|      22|      0|       78|    139|     861|     Melbourne      |This city still has vaccines remaining
+  18|2360250|       0|      0|        9|      0|       0|      Brisbane      |The city has become infection free
+  18|2022070|       3|      0|       23|      1|     999|       Perth        |This city still has vaccines remaining
+  18| 317413|       0|      0|        9|      0|       0|   Sunshine Coast   |The city has become infection free
+  18|  33921|       0|      0|        6|      0|       0|       Albany       |The city has become infection free
+  19|4725514|      23|      0|       85|    161|     839|     Melbourne      |This city still has vaccines remaining
+  19|2360253|       0|      0|       12|      0|       0|      Brisbane      |The city has become infection free
+  19|2022079|       6|      0|       28|      4|     996|       Perth        |This city still has vaccines remaining
+  19| 317416|       0|      0|       12|      0|       0|   Sunshine Coast   |The city has become infection free
+  19|  33924|       0|      0|        9|      0|       0|       Albany       |The city has become infection free
+  20|4725516|       0|      0|       87|    184|     816|     Melbourne      |The city has become infection free
+  20|4725516|       0|      0|       87|    184|     816|     Melbourne      |This city still has vaccines remaining
+  20|2360257|       0|      0|       16|      0|       0|      Brisbane      |The city has become infection free
+  20|2022089|       8|      0|       33|     10|     990|       Perth        |This city still has vaccines remaining
+  20| 317420|       0|      0|       16|      0|       0|   Sunshine Coast   |The city has become infection free
+  20| 101589|       0|      0|        1|      0|       0|      Ballarat      |The city has its first infected case
+  20| 101589|       0|      0|        1|      0|       0|      Ballarat      |The city has become infection free
+  20|  34619|       0|      0|        1|      0|       0|    Warrnambool     |The city has its first infected case
+  20|  34619|       0|      0|        1|      0|       0|    Warrnambool     |The city has become infection free
+  20|  33927|       0|      0|       12|      0|       0|       Albany       |The city has become infection free

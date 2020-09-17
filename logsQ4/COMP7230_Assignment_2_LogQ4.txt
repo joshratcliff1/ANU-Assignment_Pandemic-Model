@@ -1,0 +1,1 @@
+Min deaths = 841411		Road blocks at: ('Brisbane','Sunshine Coast'),('Brisbane','Toowoomba') and ('Mackay','Rockhampton')Min deaths = 841411		Road blocks at: ('Brisbane','Sunshine Coast'),('Brisbane','Toowoomba') and ('Mackay','Rockhampton')

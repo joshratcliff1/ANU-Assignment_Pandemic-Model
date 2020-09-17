@@ -1,0 +1,38 @@
+BASE CASE
+	Infected (each turn) = [10173, 11222, 12342, 13569, 14883, 16316, 17860, 19595, 21578, 23726, 26060, 28566, 31250, 34138, 37197, 40425, 43830, 47356, 51024, 54804]
+Total infected 555914
+
+OPTION 1 Sending Treatment Centres to the largest infection
+	Total infection count (each turn) = [4173, 8392, 12595, 16785, 20965, 25134, 29295, 33437, 37578, 41707, 45810, 49889, 53976, 58057, 62135, 66200, 70252, 74291, 78300, 82311]
+Total infected at end of turn 20 = 82311
+
+OPTION 2 Choosing new locations each time (if possible)
+	Total infection count (each turn) = [4173, 8392, 12595, 16985, 21388, 25819, 30296, 34761, 39383, 44207, 49383, 54948, 60932, 67372, 74277, 81662, 89139, 96736, 104493, 112371]
+Total infected at end of turn 20 = 112371
+
+OPTION 3: Manual: ['Darwin', 'Alice Springs', 'Port Augusta', 'Adelaide']
+	Total infection count (each turn) = [4173, 8812, 13790, 19124, 24837, 30558, 36372, 42273, 48297, 54473, 60823, 67342, 74025, 80913, 88006, 95357, 102975, 110880, 119091, 127606]
+Total infected at end of turn 20 = 127606
+
+Option 4: Max healthy population over 1000
+	Total infection count (each turn) = [4173, 8392, 12594, 16777, 20942, 25087, 29202, 33278, 37327, 41332, 45281, 49196, 53053, 56834, 60566, 64259, 67925, 71512, 75024, 78482]
+Total infected at end of turn 20 = 78482
+
+Option 5: Minimising new_infections
+	Total infection count (each turn) = [4173, 8392, 12595, 16785, 20965, 25134, 29295, 33437, 37578, 41707, 45810, 49889, 53976, 58057, 62135, 66200, 70252, 74291, 78300, 82311]
+Total infected at end of turn 20 = 82311
+
+Option 6: Minimising new_infections (with forcing Cairns for first 4 turns)
+	Total infection count (each turn) = [4173, 8393, 12605, 16812, 21013, 25194, 29343, 33455, 37542, 41636, 45759, 49893, 54037, 58191, 62357, 66531, 70725, 74935, 79125, 83323]
+Total infected at end of turn 20 = 83323
+
+
+
+Option 4: Max healthy population over 1000
+	Total infection count (each turn) = [14173, 18392, 22595, 26985, 31388, 35819, 40296, 44761, 49383, 54207, 59383, 64948, 70932, 77372, 84277, 91662, 99139, 106736, 114493, 122371]
+Total infected at end of turn 20 = 122371
+
+Option 4: Max healthy population over 1000
+	Total infection count (each turn) = [14173, 18392, 22594, 26777, 30942, 35087, 39202, 43278, 47327, 51332, 55281, 59196, 63053, 66834, 70566, 74259, 77925, 81512, 85024, 88482]
+Total infected at end of turn 20 = 88482
+

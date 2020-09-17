@@ -1,0 +1,149 @@
+Turn| Alive |infected|  Dead |Survivors| Cured |Vaccines|        City        |Event
+   1|  28650|    3390|    226|        0|      0|       0|   Alice Springs    |The city has its first infected case
+   2| 178875|      55|      5|        0|      0|       0|     Townsville     |The city has its first infected case
+   2| 145927|      55|      5|        0|      0|       0|       Darwin       |The city has its first infected case
+   2| 114035|      55|      5|        0|      0|       0|     Toowoomba      |The city has its first infected case
+   2|  37136|      55|      5|        0|      0|       0|       Dubbo        |The city has its first infected case
+   2|  30693|      55|      5|        0|      0|       0| Kalgoorlie Boulder |The city has its first infected case
+   2|  14226|      55|      5|        0|      0|       0|    Port Augusta    |The city has its first infected case
+   3|  23833|   23833|   3567|        0|      0|       0|   Alice Springs    |Everyone in the city is infected
+   4|2360241|       0|      3|        0|      0|       0|      Brisbane      |The city has its first infected case
+   4|2360241|       0|      3|        0|      0|       0|      Brisbane      |The city has become infection free
+   4|2022044|       0|      2|        0|      0|       0|       Perth        |The city has its first infected case
+   4|2022044|       0|      2|        0|      0|       0|       Perth        |The city has become infection free
+   4|1324279|       0|      2|        0|      0|       0|      Adelaide      |The city has its first infected case
+   4|1324279|       0|      2|        0|      0|       0|      Adelaide      |The city has become infection free
+   4| 436171|       0|      1|        0|      0|       0|     Newcastle      |The city has its first infected case
+   4| 436171|       0|      1|        0|      0|       0|     Newcastle      |The city has become infection free
+   4| 317404|       0|      3|        0|      0|       0|   Sunshine Coast   |The city has its first infected case
+   4| 317404|       0|      3|        0|      0|       0|   Sunshine Coast   |The city has become infection free
+   4| 150042|       5|      5|        0|      0|       0|       Cairns       |The city has its first infected case
+   4|  39755|       0|      1|        0|      0|       0|  Bathurst Orange   |The city has its first infected case
+   4|  39755|       0|      1|        0|      0|       0|  Bathurst Orange   |The city has become infection free
+   4|  80755|       0|      3|        0|      0|       0|       Mackay       |The city has its first infected case
+   4|  80755|       0|      3|        0|      0|       0|       Mackay       |The city has become infection free
+   4|  55960|       0|      1|        0|      0|       0|    Wagga Wagga     |The city has its first infected case
+   4|  55960|       0|      1|        0|      0|       0|    Wagga Wagga     |The city has become infection free
+   4|  50998|       0|      3|        0|      0|       0|      Mildura       |The city has its first infected case
+   4|  50998|       0|      3|        0|      0|       0|      Mildura       |The city has become infection free
+   4|  41978|       0|      1|        0|      0|       0|      Tamworth      |The city has its first infected case
+   4|  41978|       0|      1|        0|      0|       0|      Tamworth      |The city has become infection free
+   4|  38289|       0|      2|        0|      0|       0|     Geraldton      |The city has its first infected case
+   4|  38289|       0|      2|        0|      0|       0|     Geraldton      |The city has become infection free
+   4|  33915|       0|      2|        0|      0|       0|       Albany       |The city has its first infected case
+   4|  33915|       0|      2|        0|      0|       0|       Albany       |The city has become infection free
+   4|  14776|       0|      3|        0|      0|       0|       Broome       |The city has its first infected case
+   4|  14776|       0|      3|        0|      0|       0|       Broome       |The city has become infection free
+   6|  11487|   11487|   2580|        0|      0|       0|    Port Augusta    |Everyone in the city is infected
+   7|5029768|       0|      3|        0|      0|       0|       Sydney       |The city has its first infected case
+   7|5029768|       0|      3|        0|      0|       0|       Sydney       |The city has become infection free
+   7| 646983|       0|      5|        0|      0|       0|     Gold Coast     |The city has its first infected case
+   7| 646983|       0|      5|        0|      0|       0|     Gold Coast     |The city has become infection free
+   7| 435019|       0|      1|        0|      0|       0|      Canberra      |The city has its first infected case
+   7| 435019|       0|      1|        0|      0|       0|      Canberra      |The city has become infection free
+   7|  90576|       0|      4|        0|      0|       0|   Albury Wodonga   |The city has its first infected case
+   7|  90576|       0|      4|        0|      0|       0|   Albury Wodonga   |The city has become infection free
+   7|  78797|      10|      5|        0|      0|       0|    Rockhampton     |The city has its first infected case
+   7|  70134|       0|      1|        0|      0|       0|   Coffs Harbour    |The city has its first infected case
+   7|  70134|       0|      1|        0|      0|       0|   Coffs Harbour    |The city has become infection free
+   7|  70310|       0|      3|        0|      0|       0|     Bundaberg      |The city has its first infected case
+   7|  70310|       0|      3|        0|      0|       0|     Bundaberg      |The city has become infection free
+   7|  52806|       0|      3|        0|      0|       0|     Hervey Bay     |The city has its first infected case
+   7|  52806|       0|      3|        0|      0|       0|     Hervey Bay     |The city has become infection free
+   7|  25300|   25300|   8983|        0|      0|       0|       Dubbo        |Everyone in the city is infected
+   7|  46247|       0|      2|        0|      0|       0|   Port Macquarie   |The city has its first infected case
+   7|  46247|       0|      2|        0|      0|       0|   Port Macquarie   |The city has become infection free
+   7|  19222|   19222|   8915|        0|      0|       0| Kalgoorlie Boulder |Everyone in the city is infected
+   7|  34618|       0|      3|        0|      0|       0|    Warrnambool     |The city has its first infected case
+   7|  34618|       0|      3|        0|      0|       0|    Warrnambool     |The city has become infection free
+   7|  74113|       0|      3|        0|      0|       0|      Bunbury       |The city has its first infected case
+   7|  74113|       0|      3|        0|      0|       0|      Bunbury       |The city has become infection free
+   8| 137000|  137000|  29961|        0|      0|       0|     Townsville     |Everyone in the city is infected
+   8| 104052|  104052|  29961|        0|      0|       0|       Darwin       |Everyone in the city is infected
+   8|  72125|   72125|  29926|        0|      0|       0|     Toowoomba      |Everyone in the city is infected
+   9|  46448|   46448|   4567|        0|      0|       0|      Mildura       |Everyone in the city is infected
+   9|  45086|       0|      2|        0|      0|       0|     Gladstone      |The city has its first infected case
+   9|  45086|       0|      2|        0|      0|       0|     Gladstone      |The city has become infection free
+   9|  12859|   12859|   4463|        0|      0|       0|       Broome       |Everyone in the city is infected
+  10|4725316|       0|      4|        0|      0|       0|     Melbourne      |The city has its first infected case
+  10|4725316|       0|      4|        0|      0|       0|     Melbourne      |The city has become infection free
+  10| 295671|      10|      5|        0|      0|       0|     Wollongong     |The city has its first infected case
+  10| 192395|      10|      5|        0|      0|       0|      Geelong       |The city has its first infected case
+  10| 117951|  117951|  33959|        0|      0|       0|       Cairns       |Everyone in the city is infected
+  10|  31799|   31799|   6474|        0|      0|       0|  Bathurst Orange   |Everyone in the city is infected
+  10|  65297|   65297|  16971|        0|      0|       0|       Mackay       |Everyone in the city is infected
+  10|  48016|   48016|   6748|        0|      0|       0|    Wagga Wagga     |Everyone in the city is infected
+  10|  50693|       0|      4|        0|      0|       0|Shepparton Mooroopna|The city has its first infected case
+  10|  50693|       0|      4|        0|      0|       0|Shepparton Mooroopna|The city has become infection free
+  10|  33999|   33999|   6499|        0|      0|       0|      Tamworth      |Everyone in the city is infected
+  10|  28663|   28663|   8543|        0|      0|       0|     Geraldton      |Everyone in the city is infected
+  10|  24140|   24140|   7970|        0|      0|       0|       Albany       |Everyone in the city is infected
+  11| 242405|  242405|  59614|        0|      0|       0|   Sunshine Coast   |Everyone in the city is infected
+  12|2083749| 2083749| 202990|        0|      0|       0|      Brisbane      |Everyone in the city is infected
+  12| 329347|  329347|  75485|        0|      0|       0|     Newcastle      |Everyone in the city is infected
+  12| 101588|       0|      1|        0|      0|       0|      Ballarat      |The city has its first infected case
+  12| 101588|       0|      1|        0|      0|       0|      Ballarat      |The city has become infection free
+  12|  95587|       0|      1|        0|      0|       0|      Bendigo       |The city has its first infected case
+  12|  95587|       0|      1|        0|      0|       0|      Bendigo       |The city has become infection free
+  12|  70983|   70983|  10401|        0|      0|       0|    Rockhampton     |Everyone in the city is infected
+  12|  68700|   68700|   5905|        0|      0|       0|     Bundaberg      |Everyone in the city is infected
+  12|  51180|   51180|   5844|        0|      0|       0|     Hervey Bay     |Everyone in the city is infected
+  12|  43603|   43603|   5256|        0|      0|       0|   Port Macquarie   |Everyone in the city is infected
+  12|  32737|   32737|   4322|        0|      0|       0|    Warrnambool     |Everyone in the city is infected
+  12|  70184|   70184|   6331|        0|      0|       0|      Bunbury       |Everyone in the city is infected
+  13|1547204| 1547204| 335139|        0|      0|       0|       Perth        |Everyone in the city is infected
+  13| 839890|  839890| 338820|        0|      0|       0|      Adelaide      |Everyone in the city is infected
+  13|  63203|   63203|  22889|        0|      0|       0|   Albury Wodonga   |Everyone in the city is infected
+  13|  62315|   62315|   8459|        0|      0|       0|   Coffs Harbour    |Everyone in the city is infected
+  14| 520670|  520670| 159245|        0|      0|       0|     Gold Coast     |Everyone in the city is infected
+  14|  42303|   42303|   8430|        0|      0|       0|     Gladstone      |Everyone in the city is infected
+  15| 298231|  298231| 108026|        0|      0|       0|      Canberra      |Everyone in the city is infected
+  15|  45788|   45788|   5711|        0|      0|       0|Shepparton Mooroopna|Everyone in the city is infected
+  16|3346649| 3346649|1204435|        0|      0|       0|       Sydney       |Everyone in the city is infected
+  16| 267143|  267143|  55220|        0|      0|       0|     Wollongong     |Everyone in the city is infected
+  16| 152287|  152287|  35293|        0|      0|       0|      Geelong       |Everyone in the city is infected
+  18|  83494|   83494|  27989|        0|      0|       0|      Ballarat      |Everyone in the city is infected
+  18|  83197|   83197|  12901|        0|      0|       0|      Bendigo       |Everyone in the city is infected
+  19|3493805| 3493805| 870392|        0|      0|       0|     Melbourne      |Everyone in the city is infected
+  47|      0|       0|  84306|        0|      0|       0|       Mackay       |Everyone in the city is dead
+  48|      0|       0| 134315|        0|      0|       0|       Cairns       |Everyone in the city is dead
+  48|      0|       0|  84307|        0|      0|       0|       Mackay       |Everyone in the city is dead
+  48|      0|       0|  75766|        0|      0|       0|    Rockhampton     |Everyone in the city is dead
+  48|      0|       0|  53593|        0|      0|       0|     Gladstone      |Everyone in the city is dead
+  49|      0|       0|  53594|        0|      0|       0|     Gladstone      |Everyone in the city is dead
+  49|      0|       0|  40074|        0|      0|       0|       Broome       |Everyone in the city is dead
+  50|      0|       0|  40075|        0|      0|       0|       Broome       |Everyone in the city is dead
+  51|      0|       0| 163233|        0|      0|       0|     Townsville     |Everyone in the city is dead
+  51|      0|       0|  82302|        0|      0|       0|     Hervey Bay     |Everyone in the city is dead
+  52|      0|       0| 133623|        0|      0|       0|       Darwin       |Everyone in the city is dead
+  52|      0|       0| 104602|        0|      0|       0|     Bundaberg      |Everyone in the city is dead
+  52|      0|       0| 182747|        0|      0|       0|      Bunbury       |Everyone in the city is dead
+  53|      0|       0| 300950|        0|      0|       0|     Toowoomba      |Everyone in the city is dead
+  53|      0|       0| 157433|        0|      0|       0|     Geraldton      |Everyone in the city is dead
+  53|      0|       0| 176350|        0|      0|       0|       Albany       |Everyone in the city is dead
+  54|      0|       0|1766902|        0|      0|       0|      Brisbane      |Everyone in the city is dead
+  54|      0|       0|1473624|        0|      0|       0|       Perth        |Everyone in the city is dead
+  54|      0|       0| 455223|        0|      0|       0|   Sunshine Coast   |Everyone in the city is dead
+  55|      0|       0| 653402|        0|      0|       0|     Gold Coast     |Everyone in the city is dead
+  55|      0|       0| 137865|        0|      0|       0|   Coffs Harbour    |Everyone in the city is dead
+  55|      0|       0| 185242|        0|      0|       0| Kalgoorlie Boulder |Everyone in the city is dead
+  56|      0|       0| 131500|        0|      0|       0|      Tamworth      |Everyone in the city is dead
+  56|      0|       0| 118889|        0|      0|       0|   Port Macquarie   |Everyone in the city is dead
+  56|      0|       0| 112502|        0|      0|       0|   Alice Springs    |Everyone in the city is dead
+  57|      0|       0| 610463|        0|      0|       0|     Newcastle      |Everyone in the city is dead
+  57|      0|       0| 323823|        0|      0|       0|  Bathurst Orange   |Everyone in the city is dead
+  57|      0|       0| 138334|        0|      0|       0|    Port Augusta    |Everyone in the city is dead
+  58|      0|       0| 967345|        0|      0|       0|      Adelaide      |Everyone in the city is dead
+  58|      0|       0| 546881|        0|      0|       0|     Wollongong     |Everyone in the city is dead
+  59|      0|       0|  86193|        0|      0|       0|Shepparton Mooroopna|Everyone in the city is dead
+  59|      0|       0| 180822|        0|      0|       0|    Warrnambool     |Everyone in the city is dead
+  60|      0|       0|3733687|        0|      0|       0|       Sydney       |Everyone in the city is dead
+  60|      0|       0| 714759|        0|      0|       0|      Canberra      |Everyone in the city is dead
+  60|      0|       0| 130501|        0|      0|       0|      Bendigo       |Everyone in the city is dead
+  60|      0|       0| 145933|        0|      0|       0|    Wagga Wagga     |Everyone in the city is dead
+  60|      0|       0| 196508|        0|      0|       0|      Mildura       |Everyone in the city is dead
+  60|      0|       0| 177361|        0|      0|       0|       Dubbo        |Everyone in the city is dead
+  61|      0|       0|3411096|        0|      0|       0|     Melbourne      |Everyone in the city is dead
+  62|      0|       0| 561930|        0|      0|       0|      Geelong       |Everyone in the city is dead
+  62|      0|       0| 504117|        0|      0|       0|   Albury Wodonga   |Everyone in the city is dead
+  62|      0|       0| 497906|        0|      0|       0|      Ballarat      |Everyone in the city is dead
